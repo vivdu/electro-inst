@@ -1,0 +1,11 @@
+.carousel-item {
+    max-height: 500px;
+}
+.carousel-caption{
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+}
+.carousel-control-prev-icon {
+    font-weight: bolder;
+}
