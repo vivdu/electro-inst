@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/electro-inst/static/css/main.30bd96b0.css",
+    "main.js": "/electro-inst/static/js/main.dca148ce.js",
+    "static/media/img02.jpg": "/electro-inst/static/media/img02.f8f30ccecde262603725.jpg",
+    "static/media/img03.jpg": "/electro-inst/static/media/img03.d9bce0c41fb350abf2a4.jpg",
+    "static/media/img01.jpg": "/electro-inst/static/media/img01.5321f1bc8737da892182.jpg",
+    "static/media/banner.png": "/electro-inst/static/media/banner.3e54260c28d6a4720c8a.png",
+    "index.html": "/electro-inst/index.html",
+    "main.30bd96b0.css.map": "/electro-inst/static/css/main.30bd96b0.css.map",
+    "main.dca148ce.js.map": "/electro-inst/static/js/main.dca148ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30bd96b0.css",
+    "static/js/main.dca148ce.js"
+  ]
+}
