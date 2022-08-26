@@ -6,7 +6,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Index/>}></Route>
+        <Route path="/electro-inst/" element={<Index/>}></Route>
+        <Route path="/inicio" element={<Index/>}></Route>
       </Routes>
     </BrowserRouter>
   );
